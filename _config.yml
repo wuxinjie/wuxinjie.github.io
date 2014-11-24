@@ -1,4 +1,4 @@
-highlighter: null
+highlighter: pygments
 permalink: /:title
 
 url:
